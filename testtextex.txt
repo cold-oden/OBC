@@ -1,3 +1,6 @@
 pV=nRT
+E=mc^2
 V = IR
 F = ma
+
+
