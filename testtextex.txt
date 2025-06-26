@@ -1,5 +1,14 @@
 pV=nRT
+<<<<<<< HEAD
 E=mc^2
 qawsedrftgyhuiop
 V = IR
 F = ma
+=======
+
+
+3
+3
+3
+
+>>>>>>> ff39bfef56711881e61f7cfbcf91c1c56be5e309

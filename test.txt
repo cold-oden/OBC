@@ -1,3 +1,16 @@
 hogehoge
+<<<<<<< HEAD
 kkkkkk
 ('o')
+=======
+<<<<<<< HEAD
+1
+1
+1
+1
+1
+1
+=======
+kkkkkk
+>>>>>>> e5149f733f768c796484dbb2d0f2534aec4bd75d
+>>>>>>> ff39bfef56711881e61f7cfbcf91c1c56be5e309
