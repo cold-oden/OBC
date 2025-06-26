@@ -3,3 +3,4 @@ V = IR
 F = ma
 
 R1:R2=R3:R4
+co2
