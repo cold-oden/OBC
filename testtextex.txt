@@ -1,1 +1,3 @@
 pV=nRT
+V = IR
+F = ma
